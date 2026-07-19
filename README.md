@@ -143,14 +143,6 @@ Highlights:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kaiserkernel&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiserkernel&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiserkernel&theme=tokyonight"/>
 
 </p>
