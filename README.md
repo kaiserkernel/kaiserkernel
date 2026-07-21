@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Baftijar Gashi
+# Hi there 👋 I'm Tobias Krüger
 
 ### Senior Full-Stack Python Engineer • Healthcare AI • FHIR/HL7 • Software Architect
 
@@ -154,22 +154,6 @@ Technical experience is a huge advantage.
 Experience with software development, AI tools, programming, QA, project coordination, or technical support is especially welcome.
 
 If you're passionate about technology and eager to grow, feel free to get in touch.
-
----
-
-# 📫 Contact
-
-📧 Email: **baftijargashi827@gmail.com**
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/baftijar-gashi-a9101041a/
-
-💻 GitHub
-
-https://github.com/kaiserkernel
-
----
 
 > *"Great software isn't just written—it's designed, engineered, tested, and continuously improved."*
 
