@@ -12,59 +12,17 @@ Besides engineering, I also run a software company where we build custom softwar
 
 ## 🚀 What I Do
 
-🏥 Healthcare AI & Interoperability
+🏥 AI-powered Healthcare Platforms (FHIR, HL7, SMART on FHIR)
 
-- FHIR R4
-- HL7 v2/v3
-- SMART on FHIR
-- Clinical AI
-- Healthcare integrations
-- HIPAA / GDPR compliant systems
+🤖 LLM Applications • RAG • AI Automation
 
-🤖 Artificial Intelligence
+⚙️ Scalable Backend Engineering with Python & FastAPI
 
-- LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- AI-powered workflows
-- Vector Search
-- Embeddings
-- Clinical summarization
-- AI document processing
+🌐 Modern Web & Mobile Development
 
-⚙️ Backend Engineering
+☁️ Cloud-Native Infrastructure & DevOps
 
-- Python
-- FastAPI
-- Django
-- Flask
-- Node.js
-- Java Spring Boot
-
-🌐 Frontend
-
-- React
-- Next.js
-- TypeScript
-- Vue.js
-- Flutter
-
-☁️ Cloud & DevOps
-
-- Docker
-- Kubernetes
-- AWS
-- GCP
-- GitHub Actions
-- Linux
-
-🏗️ Architecture
-
-- Microservices
-- Event-driven Systems
-- Domain Driven Design (DDD)
-- Distributed Systems
-- Multi-tenant SaaS
-- High Performance APIs
+🏗️ Distributed Systems & SaaS Architecture
 
 ---
 
